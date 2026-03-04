@@ -9,18 +9,15 @@
 
 ---
 
-
 ## 📖 Overview
 
 This project provides a **patched `libcoldstart.so`** library for the Facebook Android app with SSL/TLS certificate pinning disabled, enabling security researchers and developers to capture and analyze Facebook HTTPS traffic using standard MITM proxy tools.
-
 
 ---
 
 ## 🎥 Proof of Concept
 
 <img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/698cb8c5-3b0e-43d6-8a8c-555ed66640ad" />
-https://github.com/user-attachments/assets/f445a346-3a36-4ad6-b860-1e3930144a39
 
 ▶️ [**Watch the Full Video Demonstration**](https://github.com/user-attachments/assets/f445a346-3a36-4ad6-b860-1e3930144a39)
 
@@ -98,14 +95,6 @@ Open the Facebook app and start intercepting HTTPS requests and responses in you
 ---
 
 
-**Target path:**
-```
-/data/data/com.facebook.katana/lib-compressed/libcoldstart.so
-```
-
----
-
-
 ## 📬 Contact & Latest Builds
 
 For the **most up-to-date** patched `libcoldstart.so` for Facebook, reach out directly:
@@ -113,6 +102,7 @@ For the **most up-to-date** patched `libcoldstart.so` for Facebook, reach out di
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 
 ---
+
 
 ## 🏷️ Tags
 
