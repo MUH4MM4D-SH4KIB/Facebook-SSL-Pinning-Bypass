@@ -14,7 +14,6 @@
 This project provides a **patched `libcoldstart.so`** library for the Facebook Android app with SSL/TLS certificate pinning disabled, enabling security researchers and developers to capture and analyze Facebook HTTPS traffic using standard MITM proxy tools.
 
 ---
-
 ## 🎥 Proof of Concept
 
 <img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/a6413e59-0caf-40cc-ba6c-e0d9d66a2c36" />
