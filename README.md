@@ -1,4 +1,4 @@
-# Facebook SSL Pinning Bypass for Android (2026) – Intercept & Capture HTTPS Traffic
+# Facebook SSL Pinning Bypass (2026) – Intercept & Capture HTTPS Traffic
 
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
